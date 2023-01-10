@@ -53,5 +53,5 @@ for link in anchors:
     if(link.get('href') != '#'):
         linktext ="https://brainyquote.com/topics/motivational-quotes" + link.get('href')
         all_links.add(link)
-        #print(linktext)
+       
         
